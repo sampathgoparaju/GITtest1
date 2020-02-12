@@ -1,3 +1,4 @@
+##this is a python script##
 x=9
 y=9
 print(type(x))
